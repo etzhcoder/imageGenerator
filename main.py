@@ -28,4 +28,3 @@ def generate_response(prompt):
         return f"Error: {str(e)}"
     
 
-print(generate_response("a white siamese cat"))
